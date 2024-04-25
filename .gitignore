@@ -281,6 +281,6 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,flask,visualstudiocode
 
-# custom
+# 추가로 안 올리고 싶은 내용
 migrations/
 *.sqlite
